@@ -1,5 +1,5 @@
 :root{
-    ---font-primary:"saol1";
+    ---font-primary:saol1;
 }
 
 @font-face {
@@ -9,15 +9,15 @@
 
 
 @font-face {
-    font-family:"saol";
+    font-family:saol;
     src: url("/fonts/SaolDisplay-Medium.ttf") format('truetype');
 }
 @font-face {
-    font-family: "saoll";
+    font-family: saoll;
     src: url("/fonts/SaolDisplay-Light.ttf")  format('truetype');
 }
 @font-face {
-    font-family: "saol1";
+    font-family: saol1;
     src: url("/fonts/SaolDisplay-LightItalic.ttf") format('truetype');
 }
 *{
