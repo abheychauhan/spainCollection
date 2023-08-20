@@ -3,19 +3,22 @@
 }
 
 
-
+@font-face {
+    font-family: 'Trebuchet MS';
+    src: url("trebuc.ttf");
+}
 
 @font-face {
     font-family:saol;
-    src: url("fonts/SaolDisplay-Medium.ttf");
+    src: url("SaolDisplay-Medium.ttf");
 }
 @font-face {
     font-family: saoll;
-    src: url("fonts/SaolDisplay-Light.ttf");
+    src: url("SaolDisplay-Light.ttf");
 }
 @font-face {
     font-family: saol1;
-    src: url("fonts/SaolDisplay-LightItalic.ttf");
+    src: url("SaolDisplay-LightItalic.ttf");
 }
 *{
     margin: 0;
