@@ -735,13 +735,13 @@ line-height: 12vw;
     padding-left: 30px;
 }
 .overlay h5{
-    font-size: 9px;
+    font-size: .6rem;
     letter-spacing: 1.5px;
     font-family: inter;
     color:rgb(231, 229, 229);
 }
 .overlay h1{
-    font-size: 30px;
+    font-size: 1.7rem;
     font-family: saoll;
     color: rgb(243, 240, 240);
     font-weight: 500;
@@ -753,7 +753,7 @@ line-height: 12vw;
 }
 .overlay h4{
     margin-top: 10px;
-    font-size: 15px;
+    font-size: 1rem;
     width: 180px;
     font-weight: 500;
     white-space: normal;
