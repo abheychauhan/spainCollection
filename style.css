@@ -5,20 +5,20 @@
 
 @font-face {
     font-family: 'Trebuchet MS';
-    src: url("trebuc.ttf");
+    src: url("trebuc.ttf")format("typetrue");
 }
 
 @font-face {
     font-family:saol;
-    src: url("SaolDisplay-Medium.ttf");
+    src: url("SaolDisplay-Medium.ttf")format("typetrue");
 }
 @font-face {
     font-family: saoll;
-    src: url("SaolDisplay-Light.ttf");
+    src: url("SaolDisplay-Light.ttf")format("typetrue");
 }
 @font-face {
     font-family: saol1;
-    src: url("SaolDisplay-LightItalic.ttf");
+    src: url("SaolDisplay-LightItalic.ttf")format("typetrue");
 }
 *{
     margin: 0;
