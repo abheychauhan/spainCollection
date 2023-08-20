@@ -740,10 +740,10 @@ line-height: 12vw;
     font-family: inter;
     color:rgb(231, 229, 229);
 }
-.overlay h1{
-    font-size: 1.7rem;
+.overlay{
+    font-size: .9rem;
     font-family: saoll;
-    color: rgb(243, 240, 240);
+    color: rgb(222, 218, 218);
     font-weight: 500;
     width: 200px;
     word-spacing: -1px;
