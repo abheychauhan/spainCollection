@@ -197,14 +197,14 @@ cursor: none;
     margin-left: auto;
     margin-right: auto;
     font-weight: 400;
-    font-family: saoll;
+    font-family: saoll !important;
     padding-top: 20px;
     position: relative;
     z-index: 9;
 }
 #centext h1{
     text-align: center;
-    font-family: var(---font-primary);
+    font-family: var(---font-primary) !important;
     margin-top: 30px;
     font-size: 7vw;
     font-weight: 400;
