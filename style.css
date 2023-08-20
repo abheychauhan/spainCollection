@@ -4,21 +4,21 @@
 
 @font-face {
     font-family: 'Trebuchet MS';
-    src: url("/fonts/trebuc.woff") format('woff');
+    src: url("fonts/trebuc.woff") format('woff');
 }
 
 
 @font-face {
     font-family:saol;
-    src: url("/fonts/SaolDisplay-Medium.ttf") format('truetype');
+    src: url("fonts/SaolDisplay-Medium.ttf") format('truetype');
 }
 @font-face {
     font-family: saoll;
-    src: url("/fonts/SaolDisplay-Light.ttf")  format('truetype');
+    src: url("fonts/SaolDisplay-Light.ttf")  format('truetype');
 }
 @font-face {
     font-family: saol1;
-    src: url("/fonts/SaolDisplay-LightItalic.ttf") format('truetype');
+    src: url("fonts/SaolDisplay-LightItalic.ttf") format('truetype');
 }
 *{
     margin: 0;
