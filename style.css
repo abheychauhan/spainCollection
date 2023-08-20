@@ -7,15 +7,15 @@
 
 @font-face {
     font-family:saol;
-    src: url("fonts/SaolDisplay-Medium.ttf")format('truetype');
+    src: url("fonts/SaolDisplay-Medium.ttf");
 }
 @font-face {
     font-family: saoll;
-    src: url("fonts/SaolDisplay-Light.ttf")format('truetype');
+    src: url("fonts/SaolDisplay-Light.ttf");
 }
 @font-face {
     font-family: saol1;
-    src: url("fonts/SaolDisplay-LightItalic.ttf")format('truetype');
+    src: url("fonts/SaolDisplay-LightItalic.ttf");
 }
 *{
     margin: 0;
