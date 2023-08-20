@@ -3,10 +3,7 @@
 }
 
 
-@font-face {
-    font-family: 'Trebuchet MS';
-    src: url("trebuc.ttf")format('truetype');
-}
+
 
 @font-face {
     font-family:saol;
@@ -200,14 +197,14 @@ cursor: none;
     margin-left: auto;
     margin-right: auto;
     font-weight: 400;
-    font-family: saoll !important;
+    font-family: saoll;
     padding-top: 20px;
     position: relative;
     z-index: 9;
 }
 #centext h1{
     text-align: center;
-    font-family: var(---font-primary) !important;
+    font-family: var(---font-primary);
     margin-top: 30px;
     font-size: 7vw;
     font-weight: 400;
