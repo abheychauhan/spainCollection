@@ -531,7 +531,13 @@ line-height: 12vw;
     top: 0;
     transform: translateY(0px);
 }
+.belem .text{
+    font-family: inter; font-weight: 500; font-size: 15px;color: #4C4D4D;margin-top: 4px; width:162px;
+}
 
+.belem .textt{
+    font-family: inter; font-weight: 500; font-size: 15px;color: #4C4D4D;margin-top: 4px; width:162px;
+}
 #bbox .belem .bel .elem{
     height: 70vh;
     width: 20vw;
@@ -725,7 +731,7 @@ line-height: 12vw;
 .overlay h5{
     font-size: 9px;
     letter-spacing: 1.5px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: inter;
     color:rgb(231, 229, 229);
 }
 .overlay h1{
