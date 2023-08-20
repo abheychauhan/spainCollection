@@ -3,8 +3,8 @@
 }
 
 @font-face {
-    font-family: 'Trebuchet MS';
-    src: url(./trebuc.ttf);
+    font-family: inter;
+    src: url(./Inter-Regular.ttf);
 }
 
 
@@ -752,7 +752,7 @@ line-height: 12vw;
     -webkit-line-clamp: 4;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    font-family: 'Trebuchet MS';
+    font-family: inter;
 
 }
 .overlay i{
