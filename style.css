@@ -453,6 +453,12 @@ cursor: none;
     width: 20vw;
     margin-top: 20px;
 }
+.cenelem h6{
+    font-family: inter; font-weight: 500; font-size: 11px;color: #4C4D4D; text-align: center;
+}
+.cenelem h4{
+    font-family: inter; font-weight: 500; font-size: 13px;color: #4C4D4D; text-align: center; margin-top: 10px;
+}
 #cenbox .cenelem .elem{
 height: 58vh;
 width: 100%;
@@ -532,11 +538,11 @@ line-height: 12vw;
     transform: translateY(0px);
 }
 .belem .text{
-    font-family: inter; font-weight: 500; font-size: 15px;color: #4C4D4D;margin-top: 4px; width:162px;
+    font-family: inter; font-weight: 500; font-size: 14px;color: #4C4D4D;margin-top: 4px; width:162px;
 }
 
 .belem .textt{
-    font-family: inter; font-weight: 500; font-size: 15px;color: #4C4D4D;margin-top: 4px; width:162px;
+    font-family: inter; font-weight: 500; font-size: 14px;color: #4C4D4D;margin-top: 4px; width:162px;
 }
 #bbox .belem .bel .elem{
     height: 70vh;
@@ -735,7 +741,7 @@ line-height: 12vw;
     color:rgb(231, 229, 229);
 }
 .overlay h1{
-    font-size: 100px;
+    font-size: 30px;
     font-family: saoll;
     color: rgb(243, 240, 240);
     font-weight: 500;
@@ -747,7 +753,7 @@ line-height: 12vw;
 }
 .overlay h4{
     margin-top: 10px;
-    font-size: 16px;
+    font-size: 15px;
     width: 180px;
     font-weight: 500;
     white-space: normal;
