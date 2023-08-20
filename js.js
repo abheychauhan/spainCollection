@@ -214,7 +214,6 @@ gsap.to(".centext1",{
     scrollTrigger:{
       trigger:"#footer",
       scroller:"#main",
-      markers:true,
       start:"top 0%",end:"top -20%",scrub:true
     }
   })
