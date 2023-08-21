@@ -944,6 +944,7 @@ line-height: 12vw;
         width: 100%;
         background-position: center;
         background-size: cover;
+        display: block;
 
     }
     .bg #overlay{
