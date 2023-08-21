@@ -846,12 +846,151 @@ line-height: 12vw;
     position: absolute;
     cursor: none;
 }
+ #page1 #ph1{
+    display: none;
+}
+#navp{
+    display: none;
+}
+.bg{
+    display: none;
+}
+
+
+
+
+@media (max-width:700px) {
+    #nav #nav2{
+        display: none;
+    }
+    #nav{
+        position: absolute;
+        background: #000;
+        top: -100%;
+    }
+    #cursor{
+        display: none;
+    }
+    #page1 #navp{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+         
+     }
+     #videos{
+        display: none;
+     }
+     #page1 #h1{
+        display: none;
+     }
 
 
 
 
 
-@media (max-w) {
+
+    #page1{
+    }
+ 
+     #page1 #navp i{
+      font-size: 40px;
+      margin-right: 20px;
+     }
+     #page1 #navp #logo{
+        height:90px ;
+        width: 90px;
+        position: relative;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    #logo img{
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+        object-position: center;
+    }
+  
+    #page1 #centext{
+        height: 630px;
+        width: 90%;
+        margin-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #centext h2{
+        width: 350px;
+        font-size:52px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        font-weight: 400;
+        font-family: "saoll";
+        padding-top: 80px;
+    }
+    #centext h1{
+        width: 400px;
+        text-align: center;
+        font-family: var(---font-primary);
+        margin-top: 30px;
+        font-size: 70px;
+        font-weight: 400;
+        margin: auto;
+        line-height: 70px;
+        font-style: italic;
+    
+    }
+    .bg{
+        height: 100%;
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+
+    }
+    .bg #overlay{
+        height: 100%;
+        width: 100%;
+        background: #0000003c;
+        position: relative;
+    }
+    #overlay i{
+        font-size: 30px;
+        color: white;
+        padding: 30px;
+        border: 2px solid white;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    #ph1{
+        display: block;
+        height: 500px;
+        width: 100px;
+        background: #d9c0c0;
+    }
+    #ph1 h1{
+        font-family: seoll;
+        font-size: 6vw;
+        width: 40vw;
+        text-align: center;
+        margin: auto;
+        font-weight: 500;
+        color: white;
+    }
+    #ph1 span{
+        font-style: italic;
+    }
+     #ph1 i{
+        font-size: 20px;
+        padding: 20px;
+        border: 2px solid white;
+        display: inline-block;
+        border-radius: 50%;
+        color: white;
+    }
+    
+
     
 }
 
