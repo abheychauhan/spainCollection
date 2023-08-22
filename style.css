@@ -38,7 +38,7 @@ cursor: none;
     height:86.7vw;
     width: 100vw;
     position: relative;
-    background-color: #4C4D4D;
+    background: #d4cccc;
 
 }
 #main #page1 #nav{
@@ -59,11 +59,7 @@ cursor: none;
 
     
 }
-#nav h2{
-    font-size:14px;
-    font-weight: 400;
-   font-family: inter;
-}
+
 #navv #nav1{
     display: flex;
     align-items: center;
@@ -73,6 +69,7 @@ cursor: none;
 
 }
 #navv #nav1 h2{
+    
     font-weight:400;
     color: rgb(81, 80, 80);
    font-family: inter;
@@ -386,7 +383,7 @@ cursor: none;
     width: 100vw;
     background-color: rgb(2, 2, 2);
 }
-#page2>h6{
+#page2 h6{
     color: #7E1019;
     font-family: inter;
     text-align: center;
