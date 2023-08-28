@@ -38,6 +38,7 @@ cursor: none;
     height:86.7vw;
     width: 100vw;
     position: relative;
+    background-color: #4C4D4D;
 
 }
 #main #page1 #nav{
@@ -58,7 +59,11 @@ cursor: none;
 
     
 }
-
+#nav h2{
+    font-size:14px;
+    font-weight: 400;
+   font-family: inter;
+}
 #navv #nav1{
     display: flex;
     align-items: center;
@@ -68,7 +73,6 @@ cursor: none;
 
 }
 #navv #nav1 h2{
-    
     font-weight:400;
     color: rgb(81, 80, 80);
    font-family: inter;
@@ -382,7 +386,7 @@ cursor: none;
     width: 100vw;
     background-color: rgb(2, 2, 2);
 }
-#page2 h6{
+#page2>h6{
     color: #7E1019;
     font-family: inter;
     text-align: center;
@@ -905,7 +909,9 @@ line-height: 12vw;
 
 
 
-
+    #page1{
+    }
+ 
      #page1 #navp i{
       font-size: 40px;
       margin-right: 20px;
@@ -1014,3 +1020,6 @@ line-height: 12vw;
 
 
 
+git remote add origin https://github.com/abheychauhan/spainCollection.git
+git branch -M main
+git push -u origin main
